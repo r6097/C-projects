@@ -1,0 +1,12 @@
+---
+:id: 25549134
+:submitters:
+- :name: Robert Au
+  :email: rbtau@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-26 02:17:11.345094000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-25 18:17:11.345094000 Z
+:status: processed
+:score: 30.0
